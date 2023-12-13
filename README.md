@@ -1,9 +1,9 @@
-# Project Lyrics
+# Music Player
 
 Develop an elegant React.js Music Application. 
 
 
-# Contributing
+ 
  
 
 ## System Requirements
