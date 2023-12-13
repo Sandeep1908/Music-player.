@@ -1,9 +1,17 @@
+<<<<<<< HEAD
 # Project Lyrics
+=======
+# Music Player
+>>>>>>> 0377b16db070882da0e3494c1a727b478bda6a1c
 
 Develop an elegant React.js Music Application. 
 
 
+<<<<<<< HEAD
 # Contributing
+=======
+ 
+>>>>>>> 0377b16db070882da0e3494c1a727b478bda6a1c
  
 
 ## System Requirements
@@ -77,4 +85,8 @@ To set up a development environment, please follow these steps:
     Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
  
+<<<<<<< HEAD
  
+=======
+ 
+>>>>>>> 0377b16db070882da0e3494c1a727b478bda6a1c
